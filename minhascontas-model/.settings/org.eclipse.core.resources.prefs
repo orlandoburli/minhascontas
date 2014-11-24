@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/br/com/orlandoburli/minhascontas/model/be/financeiro/DespesaBe.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/be/financeiro/ReceitaBe.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/acesso/UsuarioVo.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/financeiro/CategoriaVo.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/financeiro/ContaVo.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/financeiro/CreditoDebito.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/financeiro/DespesaVo.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/financeiro/MovimentacaoVo.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/financeiro/ReceitaVo.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/model/vo/geral/SimNao.java=UTF-8

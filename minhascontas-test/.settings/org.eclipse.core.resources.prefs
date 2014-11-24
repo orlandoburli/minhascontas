@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/br/com/orlandoburli/minhascontas/tests/builders/CategoriaBuilder.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/tests/builders/ReceitaBuilder.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/tests/cases/CategoriaTest.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/tests/cases/ContaTest.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/tests/cases/DespesaTest.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/tests/cases/MovimentacaoTest.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/tests/cases/ReceitaTest.java=UTF-8
+encoding//src/br/com/orlandoburli/minhascontas/tests/cases/UsuarioTest.java=UTF-8
